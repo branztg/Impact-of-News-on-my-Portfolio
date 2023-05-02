@@ -5,8 +5,8 @@
 # Look at 10 Different Stocks in my Financefolio.
 
     Analyze the relations between News Events and Stock and Cryptocurrency Prices.
-    5 cryptocurrencies
-    5 stocks
+    5 cryptocurrencies (BTC, XRP, LTC, DOGE, ETH)
+    5 stocks (AMZN, GOOG, TSLA, MCD, XOM)
 
 # Look at Different News Articles at Different Times
 
