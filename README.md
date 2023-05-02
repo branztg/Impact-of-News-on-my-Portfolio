@@ -1,6 +1,6 @@
 # # # News Driven Investments
 
-# We are gathering news articles to analyze how it affects the stock & cryptocuurency prices, in a given portfolio.
+# We are gathering news articles to analyze how it affects the stock & cryptocurrency prices, in a given portfolio.
 
 # Look at 10 Different Stocks in my Financefolio.
 
@@ -13,9 +13,9 @@
     Use NewsAPI to gather articles related to stock symbols and cryptocurrencies.
     Look at 10 years worth of data history for each asset.
     Graph a chart using hvPlot. To answer questions like:
-         " What is the correlation between news events and my financefolio?"
-         " What should I buy in times of good news and bad news?"
-         " What is a more risk averse position to take at different periods?"
+         "What is the correlation between news events and my financefolio?"
+         "What should I buy in times of good news and bad news?"
+         "What is a more risk averse position to take at different periods?"
 
 Project 1 - Group 3 members:
 Pinda Johnson
