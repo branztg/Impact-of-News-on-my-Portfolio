@@ -1,6 +1,6 @@
 # # # News Driven Investments
 
-# We are gathering news articles to analyze how it affects the stock & cryptocurrency prices, in a given portfolio.
+# We are gathering news articles to analyze how news affects the stock & cryptocurrency prices, in a given portfolio.
 
 # Look at 10 Different Stocks in my Financefolio.
 
