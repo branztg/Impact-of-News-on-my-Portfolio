@@ -51,6 +51,7 @@ Using line graphs,
     5 cryptocurrencies (BTC, SOL, LTC, DOGE, ETH)
     5 stocks (AMZN, GOOG, TSLA, MCD, XOM)
 # Additional Explanations and Major Findings
+![Crypto_graphic](https://github.com/branztg/News-Driven-Investments/assets/100908888/9c123b8a-5552-4bd5-8144-07974dab685b)
 
 
 # Conclusion
