@@ -7,6 +7,9 @@
    This project was completed utilizing Jupyter notebook. Jupyter notebook contains python code and displays our Projects findings. There is no need to install libraries as you will only need to open a "IPYNB" file to display the Python code containing our projects results. This is a research project, and the analysis is here available on the Readme file.
 
 # Motovation & Summary
+The project involves collecting news articles and examining their impact on the stock and cryptocurrency prices of a specific portfolio. 
+The goal is to analyze the correlation between news coverage and market fluctuations. 
+Specifically, the analysis aims to determine what to buy during periods of good and bad news
 
 # Package Requirements and Versions
 pip install x ; where 'x' is the package listed below:
@@ -16,20 +19,15 @@ pandas == 1.3.5+
 hvplot == 0.7.3
 matplotlib == 3.5.1
 Hvplot == 2.0.9
-quandl == 3.7.0
-yfinance == 0.1.74
-plotly.express == 5.9.0
 
 # Files Navigation
-   Main.ipynb is a Directory that contains all images and plots that were created and utilized in Jupyter Notebook, Data Exploration, API connections, graphs deployed applications include Python, Panda’s, Alpaca, Jupyter lab, Hvplot, Matplotlib, CSV’s Tabula data structure, API’s PyViz, Python Syntax, Terminal, Variables, Conditions, Inputs, Loops, Lists, Dictionaries, Nested lists & Nested Dictionaries, Functions, Cleaning of the data consists of the visualization of numbers, correlation and rolling Statistics.
+   Main branch is a Directory that contains all images and plots that were created and utilized in Jupyter Notebook, Data Exploration, API connections, graphs deployed applications include Python, Panda’s, Alpaca, Hvplot, Matplotlib, Python Syntax, Variables,  Cleaning of the data consists of the visualization of numbers, correlation and more.
 
 # Purpose of Use
    Our team decided that Project One will consist of the investigation of the effects of the news on the stock and crypto currency market we examined different news events spanning over a five-year period. We examined the effects both good and bad on the stock and crypto currency market. This may be used to anticipate and plot the past your finance folio.
 
 # The periods of analyzed include:
 We chose a period of 5 years:
-
-
 
 # Look at 10 stocks and crypto currancies in my Financefolio.
 Amazon AMZN
@@ -43,15 +41,26 @@ Solana SOL
 LiteCoin LTC
 DOGE
 Ethereum ETH
-# Data Pre-Processing/Gathering Steps (Cleaning and Manipulation)
 
+# Data Pre-Processing/Gathering Steps (Cleaning and Manipulation)
+Import necessary libraries(pandas , alpaca)
+Enter API and secret keys
+Choose tickers, startdate-enddate, and timeframe
+Called Stock data from Alpaca’s API
+Navigate and Clean data
+Drop all columns except close price
+Set index to data date
+Use Close Price as our y-axis, dates as x-axis
+Organize into a dataframe
+Choose tickers, call data, clean data for Cryptocurrencies
+Concatenate Stocks and Crypto Dataframes
+Visualize results using hvplot
 
 # Visuals and Explanations
 Using line graphs, 
     5 cryptocurrencies (BTC, SOL, LTC, DOGE, ETH)
     5 stocks (AMZN, GOOG, TSLA, MCD, XOM)
 # Additional Explanations and Major Findings
-![Crypto_graphic](https://github.com/branztg/News-Driven-Investments/assets/100908888/9c123b8a-5552-4bd5-8144-07974dab685b)
 
 
 # Conclusion
